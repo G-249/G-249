@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👩‍💻 About Me<br><br>Hi, I'm **A. Gayathri**, a B.Tech (3rd Year) student passionate about software development and problem-solving.<br><br>- 🌱 Currently learning **Data Structures & Algorithms (Java)**, **Full Stack Development**, and **AI/ML**.<br>- 💻 Skilled in **Java, Python, SQL, HTML, CSS, JavaScript**, and **Streamlit**.<br>- 🚀 Built projects like **AI Text Summarizer** and enjoy creating practical applications.<br>- 📚 Solving coding problems regularly on **LeetCode** to strengthen my programming skills.<br>- 🎯 Goal: Secure a **Software Development Engineer (SDE)** internship and contribute to impactful real-world projects.<br>- ⚡ Fun fact: I enjoy learning new technologies and continuously improving my coding skills.
 
 
